@@ -55,6 +55,13 @@ coverage.xml
 *.mo
 *.pot
 
+# JSON files
+*.json
+*.json5
+
+# PyCharm stuff:
+.idea/
+
 # Django stuff:
 *.log
 local_settings.py
